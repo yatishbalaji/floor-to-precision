@@ -1,0 +1,27 @@
+{
+  "name": "floor-to-precision",
+  "version": "1.0.0",
+  "description": "Floor a number at a given position",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatishbalaji/floor-to-precision.git"
+  },
+  "keywords": [
+    "floor",
+    "math",
+    "precision",
+    "decimal",
+    "location",
+    "fixed"
+  ],
+  "author": "Yatish Balaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yatishbalaji/floor-to-precision/issues"
+  },
+  "homepage": "https://github.com/yatishbalaji/floor-to-precision#readme"
+}
